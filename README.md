@@ -11,7 +11,7 @@ Votely is a web application that allows users to create and manage polls. It pro
 - Share polls with others
 - Vote on polls created by others
 
-## Technologies
+## Technologies Used
 
 - React
 - Node.js
