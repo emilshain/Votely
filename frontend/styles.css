@@ -357,3 +357,26 @@ h6 {
     height: 24px;
     fill: currentColor;
 }
+
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 0px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 700;
+    font-size: 1.2em;
+    font-family: var(--font-heading);
+}
+
+.nav-logo {
+    width: 32px;
+    height: 32px;
+}
