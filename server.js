@@ -68,7 +68,8 @@ app.use((err, req, res, next) => {
 });
 
 // Start server
-app.listen(PORT, () => {
+// Start server
+app.listen(PORT, '0.0.0.0', () => {
     console.log(`✅ Server running on http://localhost:${PORT}`);
     console.log(`📁 Frontend served from: ${frontendPath}`);
     console.log(`🔗 API Base URL: http://localhost:${PORT}/api`);
