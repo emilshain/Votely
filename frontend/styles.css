@@ -352,7 +352,8 @@ h6 {
     color: var(--card-bg);
 }
 
-.oauth button img {
-    width: 20px;
-    height: 20px;
+.oauth button svg {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
 }
