@@ -72,13 +72,13 @@ function initializeDatabase() {
             const candidates = [
                 [
                     'Emil Shain',
-                    'Emil Shain is a B.Tech CSE student at Christ College of Engineering, Irinjalakuda. A passionate Frontend Developer and skilled graphic designer.',
-                    'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop'
+                    'Emil Shain is a B.Tech CSE student at Christ College of Engineering, Irinjalakuda. A passionate Frontend Developer and skilled graphic designer, he creates beautiful, responsive user interfaces that perfectly blend technology and design.',
+                    'https://media.licdn.com/dms/image/v2/D5603AQFRTPz3RI0XYw/profile-displayphoto-scale_400_400/B56ZtyR3X7KcAg-/0/1767148847049?e=1770854400&v=beta&t=5csMgspvit-VG7zVZ7hCy47z5A2xXHqIbtkKfYSdKjM'
                 ],
                 [
-                    'Justine Krieger',
-                    'Justine Krieger is a software engineer with over 10 years of experience in the field. He is a strong advocate for diversity and inclusion in the workplace.',
-                    'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop'
+                    'Chris Maria Shajan C',
+                    'Chris Maria Shajan C is a focused and dedicated second-year B.Tech CSE student at Christ College of Engineering, Thrissur. She is passionate about growing through consistent learning, with active interests in Data Analytics, AI-driven automation, and engineering innovations.',
+                    'https://media.licdn.com/dms/image/v2/D5603AQEqmqwPjPu1_A/profile-displayphoto-shrink_400_400/B56ZUfEMjDGoAg-/0/1739982949649?e=1770854400&v=beta&t=tx6VfZ_MYP5MwhUcGEuwkr5dmHKguxhxLGAblk6Kff4'
                 ],
                 [
                     'Sarah Johnson',
