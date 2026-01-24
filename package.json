@@ -19,6 +19,5 @@
     "passport-google-oauth20": "^2.0.0",
     "passport-linkedin-oauth2": "^2.0.0",
     "passport-oauth2": "^1.8.0",
-    "sqlite3": "^5.1.6"
   }
 }
